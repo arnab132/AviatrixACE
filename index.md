@@ -466,9 +466,9 @@ Aviatrix CloudWAN is designed to connect and manage branch office IOS routers to
 - **Automated router reconfiguration** – Supports a range of configuration features such as version control, configuration rollback, diff, BGP routing and IPSec crypto.
 
 # Author Profile:
-- [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
-- [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
-- [Github: atulkamble](https://www.github.com/atulkamble)
-- [Medium: atul_kamble](https://medium.com/@atul_kamble)
+- [LinkedIn: Arnab Dey](https://www.linkedin.com/in/arnabdey) 
+- [Twitter: Arnab Dey](https://www.twitter.com/Arnabdey132)
+- [Github: Arnab Dey](https://www.github.com/arnab132)
+- [Medium: Arnab Dey](https://medium.com/@arnab-dey)
 
 
