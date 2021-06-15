@@ -21,7 +21,7 @@ The ACE certification is designed for individuals who already understand basic n
 - [Aviatrix Community](https://community.aviatrix.com/)
 
 # Technical Author Profile (Study Guide + Notes):
-- [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
-- [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
-- [Github: atulkamble](https://www.github.com/atulkamble)
-- [Medium: atuljkamble](https://atuljkamble.medium.com/)
+- [LinkedIn: Arnab Dey](https://www.linkedin.com/in/arnab132) 
+- [Twitter: Arnab Dey](https://www.twitter.com/Arnabdey132)
+- [Github: Arnab Dey](https://www.github.com/arnab132)
+- [Medium: Arnab Dey](https://arnab-dey.medium.com/)
